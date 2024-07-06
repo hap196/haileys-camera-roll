@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 
-const Polaroid = ({ imgSrc, text }) => {
+const Polaroid = ({ imgSrc, text, date }) => {
   const [isPopupVisible, setPopupVisible] = useState(false);
 
   const togglePopup = () => {
@@ -16,7 +16,8 @@ const Polaroid = ({ imgSrc, text }) => {
         <div className="img-container">
           <img src={imgSrc} alt="Polaroid" className="w-full rounded-md" />
         </div>
-        <div className="text-container mt-8 mb-4 text-center">
+        <div className="text-container mt-6 mb-2 text-center">
+          <h3 className="text-sm font-courier-prime font-semibold text-gray-800 mb-3">{date}</h3>
           <p className="text-sm font-courier-prime text-gray-800">{text}</p>
         </div>
       </div>
