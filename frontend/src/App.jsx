@@ -4,9 +4,9 @@ import Header from "./Header";
 
 function App() {
   return (
-    <>
-      <Header />
-    </>
+    <div className="bg-pink-100 h-screen w-screen">
+    <Header />
+    </div>
   );
 }
 
