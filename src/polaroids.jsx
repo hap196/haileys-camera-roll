@@ -1,6 +1,7 @@
 import fossilBeach from './assets/fossil_beach.jpg';
 import burkeLakeGolf from './assets/burke_lake_golf.jpg';
 import greenHaus from './assets/green_haus.jpg'
+import bomDough from './assets/bom_dough.jpg'
 
 const polaroids = [
     {
@@ -12,6 +13,11 @@ const polaroids = [
       imgSrc: burkeLakeGolf,
       text: "First time flying our new drone. Subject: Burke Lake Golf Course",
       date: "6-29-24"
+    },
+    {
+      imgSrc: bomDough,
+      text: "Olivia and I love our croissants",
+      date: "1-19-24"
     },
     {
       imgSrc: greenHaus,
