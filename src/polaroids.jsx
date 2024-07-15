@@ -1,5 +1,6 @@
 import fossilBeach from './assets/fossil_beach.jpg';
 import burkeLakeGolf from './assets/burke_lake_golf.jpg';
+import greenHaus from './assets/green_haus.jpg'
 
 const polaroids = [
     {
@@ -11,6 +12,11 @@ const polaroids = [
       imgSrc: burkeLakeGolf,
       text: "First time flying our new drone. Subject: Burke Lake Golf Course",
       date: "6-29-24"
+    },
+    {
+      imgSrc: greenHaus,
+      text: "Green Haus coffee shop with Olivia",
+      date: "1-19-24"
     },
   ];
   
