@@ -22,7 +22,7 @@ const polaroids = [
   },
   {
     imgSrc: bomDough,
-    text: "Olivia and I love our croissants",
+    text: "Olivia and I love our smoked salmon",
     date: "1-19-24",
   },
   {
