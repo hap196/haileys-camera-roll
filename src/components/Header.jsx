@@ -6,7 +6,7 @@ const Header = () => {
     <div className="flex flex-row justify-center">
       <img src={Strawberries} className="h-36 md:h-52"/>
       <h1 className="text-center mt-14 md:mt-24 text-2xl font-bold font-courier-prime">
-        Big Squishball's Camera Roll
+        Hailey's Camera Roll
       </h1>
       <img src={Strawberries} className="h-36 md:h-52"/>
     </div>
