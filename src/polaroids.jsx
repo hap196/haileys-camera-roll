@@ -19,7 +19,7 @@ import roberto_clemente_bridge from "./assets/roberto_clemente_bridge.JPG";
 const polaroids = [
   {
     imgSrc: roberto_clemente_bridge,
-    text: "",
+    text: "Views from biking along Pittsburgh",
     date: "7-21-24",
   },
   {
@@ -29,7 +29,7 @@ const polaroids = [
   },
   {
     imgSrc: pittsburgh_skyline,
-    text: "",
+    text: "View of Pittsburgh from the Duquesne Incline",
     date: "7-19-24",
   },
   {
@@ -69,7 +69,7 @@ const polaroids = [
   },
   {
     imgSrc: lanner_noodles,
-    text: "Went to Lanner Noodles with Olivia right before spring break. Hands-down best way to end midterm season",
+    text: "Went to Lanner Noodles with Olivia right before spring break. Hands-down best way to end midterm season. Also I need another tea egg",
     date: "3-22-24",
   },
   {
@@ -84,7 +84,7 @@ const polaroids = [
   },
   {
     imgSrc: green_haus,
-    text: "The scrambled eggs were the best part",
+    text: "\"Camera eats first\"  - Olivia",
     date: "1-19-24",
   },
   {
@@ -94,7 +94,7 @@ const polaroids = [
   },
   {
     imgSrc: green_haus_shop,
-    text: "Green Haus coffee shop with Olivia <3",
+    text: "Green Haus coffee shop <3",
     date: "1-19-24",
   },
 ];
