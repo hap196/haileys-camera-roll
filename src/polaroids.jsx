@@ -24,7 +24,7 @@ const polaroids = [
   },
   {
     imgSrc: falling_water,
-    text: "",
+    text: "Falling water. I want to live here",
     date: "7-20-24",
   },
   {
@@ -34,42 +34,42 @@ const polaroids = [
   },
   {
     imgSrc: nancy_b_bakery,
-    text: "",
+    text: "Bakery was closed :( But the graffiti art was good!",
     date: "7-19-24",
   },
   {
     imgSrc: phipps_butterfly,
-    text: "",
+    text: "Butterfly garden at Phipps. Got some really nice close-ups",
     date: "7-19-24",
   },
   {
     imgSrc: phipps_garden,
-    text: "",
+    text: "Phipps Botanical Garden",
     date: "7-19-24",
   },
   {
     imgSrc: fishies,
-    text: "",
+    text: "TAIYAKI!!!",
     date: "7-15-24",
   },
   {
     imgSrc: fossil_beach,
-    text: "Fossil beach. Walk there was terribly humid. Random lady invited me to skim through rocks to find fossils--no luck.",
+    text: "Fossil beach. The walk there was terribly humid",
     date: "6-30-24",
   },
   {
     imgSrc: burke_lake_golf,
-    text: "First time flying our new drone. Subject: Burke Lake Golf Course",
+    text: "First time flying my new drone. Subject: Burke Lake Golf Course",
     date: "6-29-24",
   },
   {
     imgSrc: bom_dough,
-    text: "Olivia and I love our smoked salmon",
+    text: "Bom Dough! Olivia and I love our smoked salmon",
     date: "4-25-24",
   },
   {
     imgSrc: lanner_noodles,
-    text: "",
+    text: "Went to Lanner Noodles with Olivia right before spring break. Hands-down best way to end midterm season",
     date: "3-22-24",
   },
   {
@@ -79,22 +79,22 @@ const polaroids = [
   },
   {
     imgSrc: praline_desserts,
-    text: "",
+    text: "Yum",
     date: "3-17-24",
   },
   {
     imgSrc: green_haus,
-    text: "Green Haus coffee shop with Olivia",
+    text: "The scrambled eggs were the best part",
     date: "1-19-24",
   },
   {
     imgSrc: green_haus_pastries,
-    text: "",
+    text: "More Green Haus!!",
     date: "1-19-24",
   },
   {
     imgSrc: green_haus_shop,
-    text: "",
+    text: "Green Haus coffee shop with Olivia <3",
     date: "1-19-24",
   },
 ];
