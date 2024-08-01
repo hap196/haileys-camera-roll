@@ -45,7 +45,7 @@ const polaroids = [
   {
     imgSrc: falling_water,
     text: "",
-    date: "",
+    date: "7-20-24",
   },
   {
     imgSrc: fishies,
@@ -55,37 +55,37 @@ const polaroids = [
   {
     imgSrc: green_haus_pastries,
     text: "",
-    date: "",
+    date: "1-19-24",
   },
   {
     imgSrc: green_haus_shop,
     text: "",
-    date: "",
+    date: "1-19-24",
   },
   {
     imgSrc: lanner_noodles,
     text: "",
-    date: "",
+    date: "3-22-24",
   },
   {
     imgSrc: nancy_b_bakery,
     text: "",
-    date: "",
+    date: "7-19-24",
   },
   {
     imgSrc: phipps_butterfly,
     text: "",
-    date: "",
+    date: "7-19-24",
   },
   {
     imgSrc: phipps_garden,
     text: "",
-    date: "",
+    date: "7-19-24",
   },
   {
     imgSrc: pittsburgh_skyline,
     text: "",
-    date: "6-15-24",
+    date: "7-19-24",
   },
   {
     imgSrc: praline_desserts,
@@ -95,7 +95,7 @@ const polaroids = [
   {
     imgSrc: roberto_clemente_bridge,
     text: "",
-    date: "6-25-24",
+    date: "7-21-24",
   },
 ];
 
