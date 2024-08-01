@@ -18,29 +18,9 @@ import roberto_clemente_bridge from "./assets/roberto_clemente_bridge.JPG";
 
 const polaroids = [
   {
-    imgSrc: fossil_beach,
-    text: "Fossil beach. Walk there was terribly humid. Random lady invited me to skim through rocks to find fossils--no luck.",
-    date: "6-30-24",
-  },
-  {
-    imgSrc: burke_lake_golf,
-    text: "First time flying our new drone. Subject: Burke Lake Golf Course",
-    date: "6-29-24",
-  },
-  {
-    imgSrc: praline,
-    text: "Praline Patisserie with Fiona",
-    date: "3-17-24",
-  },
-  {
-    imgSrc: bom_dough,
-    text: "Olivia and I love our smoked salmon",
-    date: "1-19-24",
-  },
-  {
-    imgSrc: green_haus,
-    text: "Green Haus coffee shop with Olivia",
-    date: "1-19-24",
+    imgSrc: roberto_clemente_bridge,
+    text: "",
+    date: "7-21-24",
   },
   {
     imgSrc: falling_water,
@@ -48,24 +28,9 @@ const polaroids = [
     date: "7-20-24",
   },
   {
-    imgSrc: fishies,
+    imgSrc: pittsburgh_skyline,
     text: "",
-    date: "7-15-24",
-  },
-  {
-    imgSrc: green_haus_pastries,
-    text: "",
-    date: "1-19-24",
-  },
-  {
-    imgSrc: green_haus_shop,
-    text: "",
-    date: "1-19-24",
-  },
-  {
-    imgSrc: lanner_noodles,
-    text: "",
-    date: "3-22-24",
+    date: "7-19-24",
   },
   {
     imgSrc: nancy_b_bakery,
@@ -83,9 +48,34 @@ const polaroids = [
     date: "7-19-24",
   },
   {
-    imgSrc: pittsburgh_skyline,
+    imgSrc: fishies,
     text: "",
-    date: "7-19-24",
+    date: "7-15-24",
+  },
+  {
+    imgSrc: fossil_beach,
+    text: "Fossil beach. Walk there was terribly humid. Random lady invited me to skim through rocks to find fossils--no luck.",
+    date: "6-30-24",
+  },
+  {
+    imgSrc: burke_lake_golf,
+    text: "First time flying our new drone. Subject: Burke Lake Golf Course",
+    date: "6-29-24",
+  },
+  {
+    imgSrc: bom_dough,
+    text: "Olivia and I love our smoked salmon",
+    date: "4-25-24",
+  },
+  {
+    imgSrc: lanner_noodles,
+    text: "",
+    date: "3-22-24",
+  },
+  {
+    imgSrc: praline,
+    text: "Praline Patisserie with Fiona",
+    date: "3-17-24",
   },
   {
     imgSrc: praline_desserts,
@@ -93,9 +83,19 @@ const polaroids = [
     date: "3-17-24",
   },
   {
-    imgSrc: roberto_clemente_bridge,
+    imgSrc: green_haus,
+    text: "Green Haus coffee shop with Olivia",
+    date: "1-19-24",
+  },
+  {
+    imgSrc: green_haus_pastries,
     text: "",
-    date: "7-21-24",
+    date: "1-19-24",
+  },
+  {
+    imgSrc: green_haus_shop,
+    text: "",
+    date: "1-19-24",
   },
 ];
 
