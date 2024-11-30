@@ -14,9 +14,63 @@ import pittsburgh_skyline from "./assets/pittsburgh_skyline.JPG";
 import praline_desserts from "./assets/praline_desserts.JPG";
 import praline from "./assets/praline.jpg";
 import roberto_clemente_bridge from "./assets/roberto_clemente_bridge.JPG";
+import ice_sculptures from "./assets/ice_sculptures.JPG";
+import snoopy_house from "./assets/snoopy_house.JPG";
+import lucy_ice_skating from "./assets/lucy_ice_skating.JPG";
+import snoopy_xmas_list from "./assets/snoopy_xmas_list.JPG";
+import snoopy_doghouse from "./assets/snoopy_doghouse.JPG";
+import snoopy_xmas_tree from "./assets/snoopy_xmas_tree.JPG";
+import linus_cello from "./assets/linus_cello.JPG";
+import ornament from "./assets/ornament.JPG";
+import frowning_linus from "./assets/frowning_linus.JPG";
 
 
 const polaroids = [
+  {
+    imgSrc: ice_sculptures,
+    text: "",
+    date: "11-29-24",
+  },
+  {
+    imgSrc: frowning_linus,
+    text: "",
+    date: "11-29-24",
+  },
+  {
+    imgSrc: ornament,
+    text: "",
+    date: "11-29-24",
+  },
+  {
+    imgSrc: linus_cello,
+    text: "",
+    date: "11-29-24",
+  },
+  {
+    imgSrc: snoopy_xmas_tree,
+    text: "",
+    date: "11-29-24",
+  },
+  {
+    imgSrc: snoopy_doghouse,
+    text: "",
+    date: "11-29-24",
+  },
+  {
+    imgSrc: snoopy_xmas_list,
+    text: "",
+    date: "11-29-24",
+  },
+  {
+    imgSrc: lucy_ice_skating,
+    text: "",
+    date: "11-29-24",
+  },
+  {
+    imgSrc: snoopy_house,
+    text: "",
+    date: "11-29-24",
+  },
   {
     imgSrc: roberto_clemente_bridge,
     text: "Views from biking along Pittsburgh",
