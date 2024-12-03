@@ -135,11 +135,6 @@ const polaroids = [
     date: "11-30-24",
   },
   {
-    imgSrc: luray4,
-    text: "",
-    date: "11-30-24",
-  },
-  {
     imgSrc: luray3,
     text: "",
     date: "11-30-24",
