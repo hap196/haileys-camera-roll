@@ -23,21 +23,51 @@ import snoopy_xmas_tree from "./assets/snoopy_xmas_tree.JPG";
 import linus_cello from "./assets/linus_cello.JPG";
 import ornament from "./assets/ornament.JPG";
 import frowning_linus from "./assets/frowning_linus.JPG";
+import singing_sculptures from "./assets/singing_sculptures.JPG";
+import ice_statue from "./assets/ice_statue.jpg";
+import ice_duck from "./assets/ice_duck.JPG";
+import ice_swan from "./assets/ice_swan.JPG";
+import sanrio_buildabears from "./assets/sanrio_buildabears.JPG";
 
 
 const polaroids = [
+  {
+    imgSrc: ornament,
+    text: "",
+    date: "11-29-24",
+  },
+  {
+    imgSrc: sanrio_buildabears,
+    text: "",
+    date: "11-29-24",
+  },
   {
     imgSrc: ice_sculptures,
     text: "",
     date: "11-29-24",
   },
   {
-    imgSrc: frowning_linus,
+    imgSrc: ice_swan,
     text: "",
     date: "11-29-24",
   },
   {
-    imgSrc: ornament,
+    imgSrc: ice_duck,
+    text: "",
+    date: "11-29-24",
+  },
+  {
+    imgSrc: ice_statue,
+    text: "",
+    date: "11-29-24",
+  },
+  {
+    imgSrc: singing_sculptures,
+    text: "",
+    date: "11-29-24",
+  },
+  {
+    imgSrc: frowning_linus,
     text: "",
     date: "11-29-24",
   },
