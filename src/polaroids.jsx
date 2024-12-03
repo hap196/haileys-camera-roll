@@ -101,7 +101,6 @@ import hp6 from "./assets/hp-6.JPG";
 import luray1 from "./assets/luray-1.JPG";
 import luray2 from "./assets/luray-2.JPG";
 import luray3 from "./assets/luray-3.JPG";
-import luray4 from "./assets/luray-4.JPG";
 
 const polaroids = [
   {
