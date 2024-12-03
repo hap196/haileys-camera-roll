@@ -3,17 +3,28 @@ import Strawberries from "../assets/strawberries.gif";
 
 const Header = () => {
   return (
-    <div className="flex flex-col">
-      <div className="flex flex-row justify-center">
-        <img src={Strawberries} className="h-36 md:h-52" />
-        <h1 className="text-center mt-14 md:mt-24 text-2xl font-bold font-courier-prime">
+    <div className="flex flex-col items-center bg-gradient-to-b from-pink-50 to-pink-100 p-6 md:p-10">
+      {/* Top Row */}
+      <div className="flex flex-col sm:flex-row items-center justify-center sm:space-x-6 space-y-4 sm:space-y-0">
+        <img
+          src={Strawberries}
+          className="h-24 md:h-36 rounded-full shadow-pink-200"
+          alt="Strawberries"
+        />
+        <h1 className="text-3xl md:text-4xl font-semibold text-pink-600 tracking-wider text-center font-[Poppins]">
           Hailey's Camera Roll
         </h1>
-        <img src={Strawberries} className="h-36 md:h-52" />
+        <img
+          src={Strawberries}
+          className="h-24 md:h-36 rounded-full shadow-pink-200"
+          alt="Strawberries"
+        />
       </div>
-      {/* <h4 className="text-center text-lg font-courier-prime">
-          Hi! Enjoy some pictures I've taken
-        </h4> */}
+
+      {/* Subtitle */}
+      <h4 className="text-center text-sm sm:text-lg md:text-xl font-medium text-pink-500 mt-4 font-[Poppins] italic">
+        a photo diary of sorts
+      </h4>
     </div>
   );
 };

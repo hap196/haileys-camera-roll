@@ -10,15 +10,15 @@ const Polaroid = ({ imgSrc, text, date }) => {
   return (
     <div>
       <div
-        className="polaroid bg-white shadow-lg p-5 rounded-md max-w-xs m-4 cursor-pointer transition-transform transform hover:scale-105"
+        className="polaroid bg-white p-2 max-w-xs m-0 cursor-pointer transition-transform transform hover:scale-105"
         onClick={togglePopup}
       >
         <div className="img-container">
-          <img src={imgSrc} alt="Polaroid" className="w-full rounded-md" />
+          <img src={imgSrc} alt="Polaroid" className="w-full" />
         </div>
-        <div className="text-container mt-6 mb-2 text-center">
-          <h3 className="text-sm font-courier-prime font-semibold text-gray-800 mb-3">{date}</h3>
-          <p className="text-sm font-courier-prime text-gray-800">{text}</p>
+        <div className="text-container mt-6 text-center">
+          {/* <h3 className="text-sm font-courier-prime font-semibold text-gray-800 mb-3">{date}</h3> */}
+          {/* <p className="text-sm font-courier-prime text-gray-800">{text}</p> */}
         </div>
       </div>
 
