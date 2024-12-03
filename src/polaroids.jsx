@@ -34,6 +34,20 @@ import georgia3 from "./assets/georgia-garden-3.JPG";
 import acadia1 from "./assets/acadia-1.JPG";
 import acadia2 from "./assets/acadia-2.JPG";
 
+import pa1 from "./assets/pa-1.JPG";
+import pa2 from "./assets/pa-2.JPG";
+import pa3 from "./assets/pa-3.JPG";
+import pa4 from "./assets/pa-4.JPG";
+import pa5 from "./assets/pa-5.JPG";
+import pa6 from "./assets/pa-6.JPG";
+import pa7 from "./assets/pa-7.JPG";
+import pa8 from "./assets/pa-8.JPG";
+import pa9 from "./assets/pa-9.JPG";
+import pa10 from "./assets/pa-10.JPG";
+import pa11 from "./assets/pa-11.JPG";
+
+import westmoreland1 from "./assets/westmoreland-1.JPG";
+
 import drone1 from "./assets/drone-1.JPG";
 import drone2 from "./assets/drone-2.JPG";
 import drone3 from "./assets/drone-3.JPG";
@@ -301,6 +315,66 @@ const polaroids = [
     imgSrc: drone1,
     text: "",
     date: "8-28-24",
+  },
+  {
+    imgSrc: pa11,
+    text: "",
+    date: "7-20-24",
+  },
+  {
+    imgSrc: pa10,
+    text: "",
+    date: "7-20-24",
+  },
+  {
+    imgSrc: pa9,
+    text: "",
+    date: "7-20-24",
+  },
+  {
+    imgSrc: pa8,
+    text: "",
+    date: "7-20-24",
+  },
+  {
+    imgSrc: pa7,
+    text: "",
+    date: "7-20-24",
+  },
+  {
+    imgSrc: pa6,
+    text: "",
+    date: "7-20-24",
+  },
+  {
+    imgSrc: pa4,
+    text: "",
+    date: "7-19-24",
+  },
+  {
+    imgSrc: pa3,
+    text: "",
+    date: "7-19-24",
+  },
+  {
+    imgSrc: pa5,
+    text: "",
+    date: "7-19-24",
+  },
+  {
+    imgSrc: pa2,
+    text: "",
+    date: "7-19-24",
+  },
+  {
+    imgSrc: pa1,
+    text: "",
+    date: "7-19-24",
+  },
+  {
+    imgSrc: westmoreland1,
+    text: "",
+    date: "6-30-24",
   },
   {
     imgSrc: acadia2,
