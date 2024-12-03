@@ -83,6 +83,9 @@ import ice5 from "./assets/ice-5.JPG";
 import ice6 from "./assets/ice-6.JPG";
 import ice7 from "./assets/ice-7.JPG";
 import ice8 from "./assets/ice-8.JPG";
+import ice9 from "./assets/ice-9.JPG";
+import ice10 from "./assets/ice-10.JPG";
+import ice11 from "./assets/ice-11.JPG";
 
 import lights1 from "./assets/lights-1.JPG";
 import lights2 from "./assets/lights-2.JPG";
@@ -166,6 +169,22 @@ const polaroids = [
     text: "",
     date: "11-29-24",
   },
+  {
+    imgSrc: ice11,
+    text: "",
+    date: "11-29-24",
+  },
+  {
+    imgSrc: ice10,
+    text: "",
+    date: "11-29-24",
+  },
+  {
+    imgSrc: ice9,
+    text: "",
+    date: "11-29-24",
+  },
+  
   {
     imgSrc: ice8,
     text: "",
