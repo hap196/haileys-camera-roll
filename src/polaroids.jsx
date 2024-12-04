@@ -378,11 +378,11 @@ const polaroids = [
     text: "",
     date: "7-19-24",
   },
-  {
-    imgSrc: westmoreland1,
-    text: "",
-    date: "6-30-24",
-  },
+  // {
+  //   imgSrc: westmoreland1,
+  //   text: "",
+  //   date: "6-30-24",
+  // },
   {
     imgSrc: acadia2,
     text: "",
@@ -498,11 +498,11 @@ const polaroids = [
     text: "",
     date: "7-18-23",
   },
-  {
-    imgSrc: yosemite5,
-    text: "",
-    date: "7-18-23",
-  },
+  // {
+  //   imgSrc: yosemite5,
+  //   text: "",
+  //   date: "7-18-23",
+  // },
   {
     imgSrc: yosemite4,
     text: "",
