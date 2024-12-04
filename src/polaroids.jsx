@@ -60,7 +60,6 @@ import elporto4 from "./assets/elporto-4.JPG";
 
 import esplanade1 from "./assets/esplanade-1.JPG";
 import esplanade2 from "./assets/esplanade-2.JPG";
-import esplanade3 from "./assets/esplanade-3.JPG";
 
 import brattleboro1 from "./assets/brattleboro-1.JPG";
 import brattleboro2 from "./assets/brattleboro-2.JPG";
@@ -72,7 +71,7 @@ import brattleboro7 from "./assets/brattleboro-7.JPG";
 import brattleboro8 from "./assets/brattleboro-8.JPG";
 import brattleboro9 from "./assets/brattleboro-9.JPG";
 
-import market1 from "./assets/market-1.JPG";
+// import market1 from "./assets/market-1.JPG";
 import market2 from "./assets/market-2.JPG";
 
 import ice1 from "./assets/ice-1.JPG";
@@ -224,11 +223,11 @@ const polaroids = [
     text: "",
     date: "11-02-24",
   },
-  {
-    imgSrc: market1,
-    text: "",
-    date: "11-02-24",
-  },
+  // {
+  //   imgSrc: market1,
+  //   text: "",
+  //   date: "11-02-24",
+  // },
   {
     imgSrc: brattleboro9,
     text: "",
@@ -273,11 +272,6 @@ const polaroids = [
     imgSrc: brattleboro1,
     text: "",
     date: "11-01-24",
-  },
-  {
-    imgSrc: esplanade3,
-    text: "",
-    date: "10-26-24",
   },
   {
     imgSrc: esplanade2,
